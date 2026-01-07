@@ -12,7 +12,7 @@ Training data: https://onedrive.live.com/:x:/g/personal/8CF6803ADF7941C3/IQBue1q
 
 Test data: https://onedrive.live.com/:x:/g/personal/8CF6803ADF7941C3/IQAwCVfSggmjQ4DJH51zJK-tARwRQWE9fl0bPlwo1mRF2PQ
 # Structure 
-
+```
 data/
 │
 ├── train.csv
@@ -21,4 +21,4 @@ data/
 └── images/
     ├── train/
     └── test/
-
+``` 
